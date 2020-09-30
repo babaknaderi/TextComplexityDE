@@ -1,7 +1,7 @@
 # Text Complexity DE
 
 _TextComplexityDE_ dataset consists of 1000 sentences in the German language with subjective complexity rating, collected 
-from German learners in level B, and 250 sentences with a native speaker's simplification.
+from German learners in level A and B, and 250 sentences with a native speaker's simplification.
 We selected 23 articles from Wikipedia and 2 articles in simple language. The articles from Wikipedia are from three 
 genres: society, economy, and history. 
 
@@ -36,6 +36,10 @@ For the datasets:
   year={2019}
 }
 ```
+
+## Contact
+Contact Babak Naderi (babak.naderi[at]tu-berlin.de) with any questions.
+
 
 ## License
 MIT License
