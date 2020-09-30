@@ -1,0 +1,5 @@
+mturk.cfg
+desktop.ini
+*__pycache__*
+*.pyc
+.idea/
